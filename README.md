@@ -440,7 +440,7 @@ Tot ce a ramas de facut este sa decodam sunetul.
 Apasam pe butonul de Receive in fereastra QSSTV, dupa care dam play din terminal cu comanda `paplay -d virtual-cable transmission.wav` la fisierul pe care vrem sa il decodam. Si asteptam sa se converteasca. Rezultatul final este urmatorul: 
 
 
-![Poza Rezultat cu Flag SSTV](images/SSTV.png)
+![Poza Rezultat cu Flag SSTV](images/SSTV.PNG)
 
 Din poza putem observa ca este scris si flag-ul pe care il cautam, si trebuie sa il transcriem manual: 
 ```
