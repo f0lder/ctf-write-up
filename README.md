@@ -1,17 +1,17 @@
 # CTF Write-up
 
 
-## [1. Cho-Choo - Medium](#1-cho-choo---medium)
-## [2. Easy Fix - Easy](#2-easy-fix---easy)
-## [3. Gone for Ice Cream - Medium](#3-gone-for-ice-cream---medium)
-## [4. Hidden Stuff - Easy](#4-hidden-stuff---easy)
-## [5. Is this the Full View - Medium](#5-is-this-the-full-view---medium)
-## [6. Old School - Hard](#6-old-school---hard)
-## [7. Spamming - Easy Fix](#7-spamming---easy-fix)
-## [8. SSTV - Medium](#8-sstv---medium)
-## [9. Strange sPi - Easy](#9-strange-spi---easy)
-## [10. UCE - Hard](#10-uce---hard)
-## [11. Weird Cat - Easy](#11-weird-cat---easy)
+## [1. Cho-Choo - Medium](#1-cho-choo---medium-1)
+## [2. Easy Fix - Easy](#2-easy-fix---easy-1)
+## [3. Gone for Ice Cream - Medium](#3-gone-for-ice-cream---medium-1)
+## [4. Hidden Stuff - Easy](#4-hidden-stuff---easy-1)
+## [5. Is this the Full View - Medium](#5-is-this-the-full-view---medium-1)
+## [6. Old School - Hard](#6-old-school---hard-1)
+## [7. Spamming - Easy Fix](#7-spamming---easy-fix-1)
+## [8. SSTV - Medium](#8-sstv---medium-1)
+## [9. Strange sPi - Easy](#9-strange-spi---easy-1)
+## [10. UCE - Hard](#10-uce---hard-1)
+## [11. Weird Cat - Easy](#11-weird-cat---easy-1)
 
 ---
 
